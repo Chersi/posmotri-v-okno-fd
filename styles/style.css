@@ -267,6 +267,7 @@ text-decoration: underline;
 }
 
 .content__card-link {
+  display: block;
   color: #fff;
   text-decoration: none;
 }
@@ -324,10 +325,6 @@ text-decoration: underline;
 
 .content__list:first-child {
   padding-top: 3px;
-}
-
-.content__card-link {
-  display: block;
 }
 
 .content__card-link:active {
