@@ -61,7 +61,6 @@ ol {
   grid-template-areas:
   "result content__details";
   column-gap: 30px;
-  align-items: end;
 }
 
 .result {
