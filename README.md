@@ -18,4 +18,4 @@
 :white_check_mark: Задействован паттерн .visually-hidden.
 
 
-Ссылка на проект https://github.com/Chersi/posmotri-v-okno-fd
+[Проект на GitHub](https://github.com/Chersi/posmotri-v-okno-fd)
